@@ -93,7 +93,7 @@ a challenging environment.
 
 <div align="center">
 
-*Available for backend roles in India · Open to remote*
+*Build with ❤️*
 
 </div>
 
