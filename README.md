@@ -35,7 +35,7 @@ Computer Science graduate and Java Backend Developer with hands-on experience bu
 - Building Spring Boot REST APIs
 - Learning Spring Security
 - Exploring Microservices Architecture
-- Practicing PostgreSQL & System Design
+- Learning System Design & Scalable Architectures
 - Learning Docker and AWS
 
 ---
