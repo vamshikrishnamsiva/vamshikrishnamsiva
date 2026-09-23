@@ -10,6 +10,7 @@
     <a href="https://discord.com/users/886104530712948763/">
       <img
         src="https://dashboard.mivator.com/user/886104530712948763/badge/emerald/discord"
+        width="350"
         alt="Discord"
       />
     </a>
@@ -20,7 +21,7 @@
 
 ### About Me
 
-Computer Science graduate and Java Backend Developer & DevOps enthusiast with hands-on experience building REST APIs using Spring Boot and PostgreSQL. Skilled in Core Java, OOPs, API design, and backend application development. Currently expanding expertise in Microservices, Spring Security, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Terraform, and AWS Cloud technologies.
+Computer Science graduate and Java Backend Developer & DevOps enthusiast with hands-on experience building REST APIs using Spring Boot and PostgreSQL. Skilled in Core Java, OOP, API design, and backend application development. Currently expanding expertise in Microservices, Spring Security, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Terraform, and AWS Cloud technologies.
 
 ---
 
@@ -54,7 +55,8 @@ Computer Science graduate and Java Backend Developer & DevOps enthusiast with ha
 ### Featured Work / Projects
 
 <div align="center">
-  <table>
+
+  <table width="90%">
     <tr>
       <td width="50%" align="center">
         <h4>Spring Boot Employee Management</h4>
@@ -63,6 +65,7 @@ Computer Science graduate and Java Backend Developer & DevOps enthusiast with ha
         <a href="https://github.com/vamshikrishnamsiva/springboot-employee-management-backend">
           <img
             src="https://readme-stats-mocha-one.vercel.app/api/pin/?username=vamshikrishnamsiva&repo=springboot-employee-management-backend&theme=merko&hide_border=true&bg_color=0D1117"
+            width="350"
             alt="Spring Boot Employee Management"
           />
         </a>
@@ -73,12 +76,14 @@ Computer Science graduate and Java Backend Developer & DevOps enthusiast with ha
         <a href="https://github.com/vamshikrishnamsiva/GithubActions-01">
           <img
             src="https://readme-stats-mocha-one.vercel.app/api/pin/?username=vamshikrishnamsiva&repo=GithubActions-01&theme=merko&hide_border=true&bg_color=0D1117"
+            width="350"
             alt="GitHubActions-01"
           />
         </a>
       </td>
     </tr>
   </table>
+
 </div>
 
 ---
@@ -117,16 +122,21 @@ Computer Science graduate and Java Backend Developer & DevOps enthusiast with ha
 
 ### GitHub Stats
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vamshikrishnamsiva&show_icons=true&theme=merko&title_color=50C878&icon_color=50C878&hide_border=true&bg_color=00000000&count_private=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vamshikrishnamsiva&layout=compact&theme=merko&title_color=50C878&icon_color=50C878&hide_border=true&bg_color=00000000&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        height="165"
+        src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vamshikrishnamsiva&show_icons=true&theme=merko&title_color=50C878&icon_color=50C878&hide_border=true&bg_color=00000000&count_private=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        height="165"
+        src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vamshikrishnamsiva&layout=compact&theme=merko&title_color=50C878&icon_color=50C878&hide_border=true&bg_color=00000000&langs_count=8"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
