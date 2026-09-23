@@ -122,21 +122,15 @@ Computer Science graduate and Java Backend Developer & DevOps enthusiast with ha
 
 ### GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        height="165"
-        src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vamshikrishnamsiva&show_icons=true&theme=merko&title_color=50C878&icon_color=50C878&hide_border=true&bg_color=00000000&count_private=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center">
-      <img
-        height="165"
-        src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vamshikrishnamsiva&layout=compact&theme=merko&title_color=50C878&icon_color=50C878&hide_border=true&bg_color=00000000&langs_count=8"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vamshikrishnamsiva&show_icons=true&theme=merko&title_color=50C878&icon_color=50C878&hide_border=true&bg_color=00000000&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vamshikrishnamsiva&layout=compact&theme=merko&title_color=50C878&icon_color=50C878&hide_border=true&bg_color=00000000&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
